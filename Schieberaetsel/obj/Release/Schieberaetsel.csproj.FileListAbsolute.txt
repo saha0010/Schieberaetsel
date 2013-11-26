@@ -1,0 +1,15 @@
+C:\Users\Sa\github\gui\Schieberaetsel\Schieberaetsel\bin\Release\Schieberaetsel.exe.config
+C:\Users\Sa\github\gui\Schieberaetsel\Schieberaetsel\obj\Release\MainWindow.baml
+C:\Users\Sa\github\gui\Schieberaetsel\Schieberaetsel\obj\Release\res.baml
+C:\Users\Sa\github\gui\Schieberaetsel\Schieberaetsel\obj\Release\App.baml
+C:\Users\Sa\github\gui\Schieberaetsel\Schieberaetsel\obj\Release\MainWindow.g.cs
+C:\Users\Sa\github\gui\Schieberaetsel\Schieberaetsel\obj\Release\App.g.cs
+C:\Users\Sa\github\gui\Schieberaetsel\Schieberaetsel\obj\Release\Schieberaetsel_MarkupCompile.cache
+C:\Users\Sa\github\gui\Schieberaetsel\Schieberaetsel\obj\Release\Schieberaetsel.g.resources
+C:\Users\Sa\github\gui\Schieberaetsel\Schieberaetsel\obj\Release\Schieberaetsel.Properties.Resources.resources
+C:\Users\Sa\github\gui\Schieberaetsel\Schieberaetsel\obj\Release\Schieberaetsel.csproj.GenerateResource.Cache
+C:\Users\Sa\github\gui\Schieberaetsel\Schieberaetsel\obj\Release\Schieberaetsel.csprojResolveAssemblyReference.cache
+C:\Users\Sa\github\gui\Schieberaetsel\Schieberaetsel\bin\Release\Schieberaetsel.exe
+C:\Users\Sa\github\gui\Schieberaetsel\Schieberaetsel\bin\Release\Schieberaetsel.pdb
+C:\Users\Sa\github\gui\Schieberaetsel\Schieberaetsel\obj\Release\Schieberaetsel.exe
+C:\Users\Sa\github\gui\Schieberaetsel\Schieberaetsel\obj\Release\Schieberaetsel.pdb

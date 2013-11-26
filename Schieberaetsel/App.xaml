@@ -1,0 +1,15 @@
+﻿<Application x:Class="Schieberaetsel.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <BitmapImage x:Key="pic0" UriSource="C:\Users\Sa\github\gui\Schieberaetsel\Schieberaetsel/kater0.jpg" />
+        <BitmapImage x:Key="pic1" UriSource="C:\Users\Sa\github\gui\Schieberaetsel\Schieberaetsel/kater1.jpg" />
+        <BitmapImage x:Key="pic2" UriSource="C:\Users\Sa\github\gui\Schieberaetsel\Schieberaetsel/kater2.jpg" />
+        <BitmapImage x:Key="pic3" UriSource="C:\Users\Sa\github\gui\Schieberaetsel\Schieberaetsel/kater3.jpg" />
+        <BitmapImage x:Key="blank" UriSource="C:\Users\Sa\github\gui\Schieberaetsel\Schieberaetsel/kirschbluete.jpg"/>
+
+        <!-- Define some image resources, for use as the image element source. -->
+        <BitmapImage x:Key="masterImage" UriSource="C:\Users\Sa\github\gui\Schieberaetsel\Schieberaetsel\Gestiefelter_Kater400.bmp"/>
+        </Application.Resources>
+</Application>
